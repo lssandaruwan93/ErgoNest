@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Legal pages are intentionally noindexed in their <head> tags.
+# This file does not block them so that noindex can be read.
+
+Sitemap: https://YOUR-DOMAIN.example/sitemap.xml
